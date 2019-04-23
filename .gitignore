@@ -1,0 +1,10 @@
+/ndkale.egg-info/
+/build/
+/dist/
+/.venv/
+/.wheelhouse/
+/.idea
+/docs/_build
+/.eggs/
+*.egg
+*.pyc
